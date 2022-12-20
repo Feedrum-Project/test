@@ -1,0 +1,13 @@
+{
+  "name": "@feedrum/test",
+  "version": "1.0.0",
+  "description": "Feedrum's NPM test package",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "keywords": [
+    "feedrum",
+    "nodejs",
+    "test",
+    "npm"
+  ]
+}
